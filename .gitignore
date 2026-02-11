@@ -1,0 +1,14 @@
+# datasets
+data/*.csv
+
+# python
+__pycache__/
+*.pyc
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# large model files (CRITICAL)
+model/*.pkl
+model/*.joblib
