@@ -1,6 +1,3 @@
-# datasets
-data/*.csv
-
 # python
 __pycache__/
 *.pyc
